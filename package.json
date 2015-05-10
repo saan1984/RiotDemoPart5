@@ -1,0 +1,16 @@
+{
+  "name": "RiotJSDemoPart5",
+  "version": "0.0.1",
+  "description": "Riot JS demo part5",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "riot": "^2.0.15"
+  }
+}
